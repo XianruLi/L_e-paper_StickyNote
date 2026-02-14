@@ -27,6 +27,7 @@ The focus so far has been on **hardware connections and u8g2 font library instan
 - **Screen Refresh and Title**
   - refreshes the screen
   - refined display format so new lines recognises /n sign start aligned
+  - spent a lot of time trying to connect the font library and actually use it correctly https://github.com/olikraus/u8g2/blob/master/tools/font/build/single_font_files/u8g2_font_wqy16_t_gb2312.c
 
 
 See:
