@@ -79,7 +79,7 @@ Use this as the **entry point** when reviewing or onboarding.
 
 ---
 
-## Notes for Reviewers
+## Notes
 
 - This is a **hardware-focused milestone**
 - Functional firmware behavior is **not required** to evaluate safety or layout correctness
